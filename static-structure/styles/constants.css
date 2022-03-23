@@ -1,0 +1,18 @@
+:root {
+  --blue: #471aec;
+  --green: #11f89f;
+  --gray: gray;
+  --white: white;
+}
+
+p {
+  color: var(--gray);
+}
+
+h1 {
+  color: var(--blue);
+}
+
+a {
+  color: var(--green);
+}
